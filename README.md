@@ -42,3 +42,14 @@
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+<h3>My Projects :</h3>
+<p>
+  Create with CMS Wordpress : 
+
+  - E-commerce Website : <a href="https://www.maboutiquedeclub.com/">Maboutiquedeclub.com</a>
+  - Marketing Digital & Coaching Website : <a href="https://solve.fr/">Solve.fr</a>
+  - Event Streaming Service Website <a href="https://easystreamit.com/">Easystreamit.com</a>
+
+</p>
+
