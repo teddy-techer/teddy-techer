@@ -2,7 +2,7 @@
 
 [![Banner](./images/banner.png)](https://teddy-techer.github.io/)
 
-<p> 
+<p>
     <b>Welcome!</b>
     </br> My name is <b>Teddy</b>,
     </br> Junior Developer & WordPress Developer
@@ -34,25 +34,26 @@
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-    
-  
 </p>
 
 <h3>I Design with :</h3>
+
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <h3>My Projects :</h3>
+
 <p>
   Create with <b>CMS Wordpress</b> :
 
-  - E-commerce Website : <a href="https://www.maboutiquedeclub.com/" target = "_blank">Maboutiquedeclub.com</a>
-  - [![Banner](./images/mbdc.com.png)](https://maboutiquedeclub.com/)
-  - Marketing Digital & Coaching Website : <a href="https://solve.fr/" target = "_blank">Solve.fr</a>
-  - [![Banner](./images/solve.fr.png)](https://solve.fr/)
-  - Event Streaming Service Website <a href="https://easystreamit.com/" target = "_blank">Easystreamit.com</a>
-  - [![Banner](./images/easytsreamit.com.png)](https://easystreamit.com/)
+- <b>E-commerce Website : <a href="https://www.maboutiquedeclub.com/" target = "_blank">Maboutiquedeclub.com</a></b>
+  [![Banner](./images/mbdc.com.png)](https://maboutiquedeclub.com/)
+  
+- <b>Marketing Digital & Coaching Website : <a href="https://solve.fr/" target = "_blank">Solve.fr</a></b>
+  [![Banner](./images/Solve.fr.png)](https://solve.fr/)
+
+- <b>Event Streaming Service Website <a href="https://easystreamit.com/" target = "_blank">Easystreamit.com</a></b>
+  [![Banner](./images/easytsreamit.com.png)](https://easystreamit.com/)
 
 </p>
-
