@@ -45,11 +45,14 @@
 
 <h3>My Projects :</h3>
 <p>
-  Create with CMS Wordpress : 
+  Create with <b>CMS Wordpress</b> :
 
-  - E-commerce Website : <a href="https://www.maboutiquedeclub.com/">Maboutiquedeclub.com</a>
-  - Marketing Digital & Coaching Website : <a href="https://solve.fr/">Solve.fr</a>
-  - Event Streaming Service Website <a href="https://easystreamit.com/">Easystreamit.com</a>
+  - E-commerce Website : <a href="https://www.maboutiquedeclub.com/" target = "_blank">Maboutiquedeclub.com</a>
+  - [![Banner](./images/mbdc.com.png)](https://maboutiquedeclub.com/)
+  - Marketing Digital & Coaching Website : <a href="https://solve.fr/" target = "_blank">Solve.fr</a>
+  - [![Banner](./images/solve.fr.png)](https://solve.fr/)
+  - Event Streaming Service Website <a href="https://easystreamit.com/" target = "_blank">Easystreamit.com</a>
+  - [![Banner](./images/easytsreamit.com.png)](https://easystreamit.com/)
 
 </p>
 
